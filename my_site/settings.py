@@ -81,7 +81,8 @@ WSGI_APPLICATION = 'my_site.wsgi.application'
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
 DATABASES = {
-    "default": dj_database_url.parse(os.environ.get("DATABASE_URL"))
+    "default": dj_database_url.parse("postgres://blog_db_gk29_user:zAKfFGYYlwXj50LKU3DfKjCsYf3Xpm0H@dpg"
+                                     "-ckarp2fs0fgc73f3ke40-a.frankfurt-postgres.render.com/blog_db_gk29")
 }
 
 
