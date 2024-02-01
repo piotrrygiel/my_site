@@ -1,7 +1,7 @@
 # My Blog
 **Full stack personal blog web application. Author can create posts with thumbnails and tags. Visitors can view posts, comment and mark them as "Read later".**
 ## ⬇️ Live demo ⬇️
-➡️ 🌐 https://my-site-7mnx.onrender.com/
+➡️ 🌐 https://my-site-7mnx.onrender.com/ (currently inactive)
 ## 📜 Project overview 📜
 - Simple blog web application, with the potential to expand its functionality
 - Starting page with three latest posts (thumbnail + short teaser) and some "About me" info
